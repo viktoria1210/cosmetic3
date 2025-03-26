@@ -1,0 +1,103 @@
+header{
+background: linear-gradient(90deg, #AA70C1 0%, #2A229E 100%);}
+header img{
+    width:64px;
+    height:64px;
+}
+header a{
+float: right;
+background: #AA70C1;
+border-radius: 10px;
+margin-top: 15px;
+width: 181px;
+height: 40px;
+text-decoration: none;
+text-align: center;
+background: #AA70C1;
+padding: 3px;
+}
+main a{
+width: 148px;
+height: 30px;
+background: #AA70C1;
+border-radius: 5px;
+text-decoration: none;
+text-align: center;
+padding: 3px;
+
+}
+article{
+
+width: 252px;
+height: 278px;
+background: #D3B1E0;
+border-radius: 15px;
+text-align: center;
+padding: 15px;
+margin-top: 20px;
+}
+section img{
+  width: 205px;
+height: 141px;
+border-radius: 16px; 
+}
+article p{
+  font-size:25px;
+}
+section{
+  display:flex;
+  justify-content: space-between;
+}
+.cat{
+width: 112px;
+height: 112px;
+border-radius: 19px; 
+}
+.tac{
+width: 89px;
+height: 89px;
+border-radius: 19px;
+}
+div{
+  display: flex;
+  justify-content: space-between;
+}
+.img{
+ width: 109px;
+height: 124px;
+border-radius: 20px;
+}
+.ing{
+ width: 100px;
+height: 125x;
+border-radius: 20px;
+}
+footer{
+  margin-top: 20px;
+  display: flex;
+  color:white;
+background: linear-gradient(90deg, #2A229E 0%, #D3B1E0 100%);
+
+}
+footer img{
+  width:56px;
+  height:56px; 
+background: linear-gradient(90deg, #2A229E 0%, #D3B1E0 100%);
+border-radius: 15px;
+
+}
+span{
+  margin-left: 20px;
+  width: 148px;
+height: 30px;
+background: #AA70C1;
+border-radius: 5px;
+text-decoration: none;
+text-align: center;
+padding: 3px;
+color:white;
+font-size:25px;
+}
+footer h3{
+  margin-left: 20px;
+}
